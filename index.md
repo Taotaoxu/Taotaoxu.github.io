@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## 1. 天气小助手
+
+一款用于Windows（7，8，10）平台的桌面天气小助手软件。
+
+#### 软件特色
+
+- C#
+- 定时更新天气状态，并可视化展示
+- 自定义国内所有城市
+- 动态显示24小时/7日内的天气信息
+- 在桌面壁纸与桌面图标之间的层上显示
+
 
 You can use the [editor on GitHub](https://github.com/Taotaoxu/xtao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
